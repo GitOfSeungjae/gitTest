@@ -18,5 +18,5 @@ git add .
 git commit -m "message"
 
 ## Git에 Push!!
-git push origin +master
+git push origin master
 
